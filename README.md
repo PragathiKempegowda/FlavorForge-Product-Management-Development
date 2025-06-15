@@ -10,6 +10,7 @@ FlavorForge is a dynamic recipe and meal-planning app designed to simplify cooki
 
 ## 🛠️ Tech Stack
 Frontend: Figma
+
 **Link to Prototype**: https://www.figma.com/proto/JdHs8OwqLPD48VIPsiYR51/ProductManagement?node-id=25-96&t=ixPXkOOAOeVE1qoh-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=25%3A96
 
 
