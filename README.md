@@ -3,9 +3,13 @@ FlavorForge is a dynamic recipe and meal-planning app designed to simplify cooki
 
 ## 🚀 Features
 1.🔍 Smart Recipe Search: Filter recipes by ingredients, cuisine, dietary restrictions, or prep time.
+
 2.🧑‍🍳 Personalized Meal Plans: Create and save weekly meal plans tailored to your taste.
+
 3. 📋 Grocery List Generator: Auto-generate shopping lists based on selected recipes.
+   
 4. 🧠 AI Recommendations: Get recipe suggestions based on past behavior and favorites.
+   
 5. 🌐 User Profiles & Saved Recipes: Save favorites, rate meals, and share with others.
 
 ## 🛠️ Tech Stack
